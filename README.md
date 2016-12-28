@@ -39,9 +39,9 @@ Aca te muestro cual es el funcionamiento de mi aplicación a grandes rasgos.
     <center>
         <table border="0">
             <tr>
-                <td><img src="https://github.com/AldoCarras/TourExpresBolivia/img/aaa.gif" width="250"></td>
-                <td><img src="https://github.com/AldoCarras/TourExpresBolivia/img/bbb.gif" width="250"></td>
-                <td><img src="https://github.com/AldoCarras/TourExpresBolivia/img/ccc.gif" width="250"></td>
+                <td><img src="/img/aaa.gif" width="250"></td>
+                <td><img src="/img/bbb.gif" width="250"></td>
+                <td><img src="/img/ccc.gif" width="250"></td>
             </tr>
         </table>
     </center>
